@@ -1,0 +1,8 @@
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\obj\Debug\SinglyLinkedImmutableList.csproj.AssemblyReference.cache
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\obj\Debug\SinglyLinkedImmutableList.csproj.SuggestedBindingRedirects.cache
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\obj\Debug\SinglyLinkedImmutableList.csproj.CoreCompileInputs.cache
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\bin\Debug\SinglyLinkedImmutableList.exe.config
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\bin\Debug\SinglyLinkedImmutableList.exe
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\bin\Debug\SinglyLinkedImmutableList.pdb
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\obj\Debug\SinglyLinkedImmutableList.exe
+F:\GitHub\singly-linked-immutable-list\SinglyLinkedImmutableList\SinglyLinkedImmutableList\obj\Debug\SinglyLinkedImmutableList.pdb
